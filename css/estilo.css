@@ -1,0 +1,40 @@
+body{
+  /*background-color: red;*/
+  font-family: verdana, geneva, sans-serif;
+  width: 700px;
+  font-size: 18px;
+}
+h1{
+  font-size: 37px;
+  line-height: 46px:
+  font-family: tahoma, helvetica, sans-serif;
+  color: #000000; /*preto em hexadecimal*/
+}
+
+h2{
+  font-size: 25px;
+  line-height: 38px;
+  font-family: Tahoma, helvetica, sans-serif;
+}
+
+p{
+  color: #333;
+  line-height: 27px;
+  /*font-size: 18px;  */ /*ja pega automatico do body*/
+}
+
+body {
+background-size: cover;
+background-image=url(../https://static.vecteezy.com/system/resources/previews/000/161/204/non_2x/vector-seamless-cute-cat-pattern-on-blue-background.jpg;)
+}
+
+h1 {
+background-color:rgba(0,0,0,0.5);
+color:#EEEE0C
+}
+
+h2 {
+background-color: black #EEEE0C;
+opacity: 0.6;
+color: #EEEE0C;
+}
